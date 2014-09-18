@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Secure Invite Japanese\n"
 "POT-Creation-Date: 2014-09-15 15:54+0900\n"
-"PO-Revision-Date: 2014-09-18 11:29+0900\n"
+"PO-Revision-Date: 2014-09-18 17:19+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja_JP\n"
@@ -687,27 +687,27 @@ msgstr "参加するように知人を誘う"
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1710
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1765
 msgid "Name of person to invite"
-msgstr "招待者の名前"
+msgstr "招待状を受けとる方のお名前"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1712
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1767
 msgid "Email of person to invite"
-msgstr "招待者のメールアドレス"
+msgstr "招待状のお届け先メールアドレス"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1714
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1769
 msgid "A personal message (optional)"
-msgstr "個人的なメッセージ(オプション)"
+msgstr "招待状に添えるメッセージを入力 (オプション)"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1716
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1772
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:2141
 msgid "Send Invitation"
-msgstr "招待状を送信"
+msgstr "送信"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1771
 msgid "Send this invitation"
-msgstr "この招待状を送信"
+msgstr "この招待状を送信します"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1961
 msgid "Number of invites left to send:"
@@ -715,7 +715,7 @@ msgstr "残りの招待数"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1963
 msgid "Unlimited invites"
-msgstr "無制限の招待"
+msgstr "無制限なし"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1965
 msgid "No invites left to send"
