@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Secure Invite Japanese\n"
 "POT-Creation-Date: 2014-09-15 15:54+0900\n"
-"PO-Revision-Date: 2014-09-18 17:19+0900\n"
+"PO-Revision-Date: 2014-10-04 16:30+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja_JP\n"
@@ -241,9 +241,9 @@ msgid ""
 "php,wp-login.php?action=register,/register,wp-register.php&quot;"
 msgstr ""
 "サインアップページのアドレスを指定します。(既定)wp-login.php?action=register"
-"　複数のアドレスを指定する場合は、カンマ(,)で区切ります。(例)Budddypressを使"
-"用する場合：wp-signup.php,wp-login.php?action=register,/register,wp-register."
-"php"
+"　複数のアドレスを指定する場合は、カンマ(,)で区切ります。<br /"
+">(例)Budddypressを使用する場合：wp-signup.php,wp-login.php?action=register,/"
+"register,wp-register.php"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:794
 msgid "Signup settings"
@@ -292,7 +292,7 @@ msgstr ""
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:811
 msgid "No invitation message"
-msgstr "招待メッセージ無し"
+msgstr "招待状がない場合のメッセージ"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:814
 msgid ""
@@ -687,17 +687,17 @@ msgstr "参加するように知人を誘う"
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1710
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1765
 msgid "Name of person to invite"
-msgstr "招待状を受けとる方のお名前"
+msgstr "招待状のあて名"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1712
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1767
 msgid "Email of person to invite"
-msgstr "招待状のお届け先メールアドレス"
+msgstr "送付先アドレス"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1714
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1769
 msgid "A personal message (optional)"
-msgstr "招待状に添えるメッセージを入力 (オプション)"
+msgstr "招待メッセージ(オプション)"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1716
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1772
@@ -715,7 +715,7 @@ msgstr "残りの招待数"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1963
 msgid "Unlimited invites"
-msgstr "無制限なし"
+msgstr "制限なし"
 
 #: ../../plugins/wordpress-mu-secure-invites/secure_invite.php:1965
 msgid "No invites left to send"
